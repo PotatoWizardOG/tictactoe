@@ -1,0 +1,43 @@
+
+    h1 {
+        font-size: 50px;
+        border-bottom: 2px solid black;
+    }
+
+    #b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9 {
+        width: 100px;
+        height: 100px;
+        margin: auto;
+        border: 1px solid gray;
+        font-size: 50px;
+        text-align: center;
+        background-color: #ffeee6;
+        border-radius: 50px;
+    }
+
+    #but {
+        box-sizing: border-box;
+        width: 95px;
+        height: 60px;
+        border: 1px solid #000000;
+        margin: auto;
+        border-radius: 4px;
+        font-family: Garamond, serif;
+        background-color: #dfbf9f;
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+    #print {
+        font-family: Garamond, serif;
+        font-size: 20px;
+    }
+
+    #main {
+        text-align: center;
+    }
+
+    #ins {
+        font-family: Garamond, serif;
+        font-size: 17px;
+    }
